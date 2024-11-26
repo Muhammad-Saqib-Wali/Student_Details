@@ -1,0 +1,3 @@
+D:/Year 2 softwre eng/Student_Details/cmake-build-debug/CMakeFiles/Student_Details.dir
+D:/Year 2 softwre eng/Student_Details/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Year 2 softwre eng/Student_Details/cmake-build-debug/CMakeFiles/rebuild_cache.dir
